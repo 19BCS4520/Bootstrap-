@@ -1,0 +1,21 @@
+Since it’s launch in August 2011, Bootstrap has attained a lot of light. It has become any developer’s choice for UI development. But there has to be a reason for such a boost right? 
+
+Well, there are many! 
+
+A Developer’s Dream: Unlike most of the frameworks available in the market, Bootstrap is one of the simplest to implement and use in the market. Its implementation is as simple as importing a CSS and using the classes available.
+
+Device Friendly: Bootstrap’s responsiveness makes it all much simpler! It can intelligently “sense” the device’s resolution and screen width and adjust the content accordingly!
+
+Customizable: Bootstrap is easily customizable. Before downloading the version from the site, you can set your own custom fonts, sizes, color schemes and everything.
+
+Huge Community: Bootstrap is supported by the huge open source community present on GitHub. Any bugs or issues are resolved in no time for the releases!
+
+Development Friendly: With almost all the “common features” that are required by web applications or websites pre-built, it makes a developer’s job much easier and reduces the time required for development. 
+
+Javascript Aided: The Bootstrap comes in with a pre-built JS file that adds a lot of functionality features to support its elements. 
+
+Well Documented: The official Bootstrap site offers in detail documentation of all the elements and features provided by Bootstrap. It’s easy to understand and offers in-depth explanations!
+
+Grid System: Bootstrap uses a 12-column grid system that is responsive. It also offers offset and nested elements. The grid can be maintained keeping different screen sizes in mind or can be just simply used to structure your content efficiently!
+
+These are just a few points that in general make Bootstrap popular. There are many more which you will get to know on your own as you make yourself familiar with it!
